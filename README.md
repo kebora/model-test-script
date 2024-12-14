@@ -13,3 +13,5 @@ Replace the `ishara.task` file, with your custom task file, and update the label
 ```commandline
 with GestureRecognizer.create_from_model_path('ishara.task') as recognizer:
 ```
+Sample output with labels is as shown in the figure below:
+![Testing the model with labels](usage.png)
